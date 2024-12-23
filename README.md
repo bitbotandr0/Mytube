@@ -29,6 +29,8 @@ cd ~/mytube
 ls
 ./dwn.sh
 
+en el caso presentar algún problema con lolcat , instale de manera manual lolcat desde su terminal con el comando : gem install lolcat
+
 ## ¿Donde está la música descargada?
  el script crea una carpeta llamada play_list , aqui se guarda todo lo descargado.
 # Mytube
